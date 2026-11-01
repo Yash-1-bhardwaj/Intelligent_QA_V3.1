@@ -1,0 +1,10 @@
+back_venv/
+__pycache__/
+*.pyc
+
+.chroma/
+.pytest_cache/
+*.db
+*.sqlite3
+
+chroma_db/
